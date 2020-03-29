@@ -1,0 +1,2 @@
+C:\Users\神原洸平\Documents\git_ccc\IfYouCanPlayThePiano\Debug\IfYouCanPlayThePiano.exe
+C:\Users\神原洸平\Documents\git_ccc\IfYouCanPlayThePiano\Debug\IfYouCanPlayThePiano.pdb
